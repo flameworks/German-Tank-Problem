@@ -5,7 +5,7 @@ In the statistical theory of estimation, the problem of estimating the maximum o
 
 The name is coined due to its application in World War II to estimate of the number of German tanks based on a random sample of captured / sighted tank serial numbers, basing on the assumption that the serial numbers are produced in running order. 
 
-Read more about the problem here! https://en.wikipedia.org/wiki/German_tank_problem
+Read more about the problem <a href="https://en.wikipedia.org/wiki/German_tank_problem" target="_blank">here</a>! 
 
 Formulas:
 The first formula of this simulation explores the most common N =~ max + max/sample_size -1 formula. 
